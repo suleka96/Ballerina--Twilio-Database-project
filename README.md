@@ -15,8 +15,8 @@ https://central.ballerina.io/wso2/twilio
 
 >Put them in the relevant places in the files as indicated
 
->I have  included an export of the table structure needed. Go to your 
-http://localhost/phpmyadmin/ and import this file.
+>Go to http://localhost/phpmyadmin/ and create a table structure as needed. 
+NOTE: change names of the fields in the code appropriately
 
 >Fill all the fields appropriately.
 
