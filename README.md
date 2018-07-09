@@ -15,10 +15,8 @@ https://central.ballerina.io/wso2/twilio
 
 >Put them in the relevant places in the files as indicated
 
->Go to http://localhost/phpmyadmin/ and create a table structure as needed. 
-NOTE: change names of the fields in the code appropriately
-
->Fill all the fields appropriately.
+>Go to http://localhost/phpmyadmin/ and import the sql file to create the table structure. 
+NOTE: change the telephone numbers in the database.
 
 Now you are all set up to run the project. To proceed please run the commands below:
 
